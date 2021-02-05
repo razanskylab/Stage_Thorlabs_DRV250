@@ -1,4 +1,4 @@
-# TStage_Thorlabs_LNR502
+# Stage_Thorlabs_LNR502
 
 A MATLAB interfacing library for the linear long-travel translation stage with the stepper motor actuator used in combination with the Benchtop Stepper Controller by Thorlabs. Most probably compatible with other linear stages based on stepper motors as well.
 
