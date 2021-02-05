@@ -5,7 +5,7 @@
 
 clear all; close all;
 
-T = Thorlabs_Stage_DRV208();
+T = Stage_Thorlabs_DRV250();
 T.Load_DLLs();
 T.List_Devices();
 T.Connect(); % opens a connection to the device

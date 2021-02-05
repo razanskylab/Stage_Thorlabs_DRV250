@@ -5,7 +5,7 @@
 
 % Description: class used to control new stage
 
-classdef Thorlabs_Stage_DRV208 < handle
+classdef Stage_Thorlabs_DRV250 < handle
 
 	properties
 		pos(1, 1) double; % position of the stage [mm]
